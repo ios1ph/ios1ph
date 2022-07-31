@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ios1ph
-- 👀 I’m interested in making apps
+- 👀 I’m creating BoosterX
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on super cool project
 - 📫 How to reach me **discord.com/ios1ph**
