@@ -2,7 +2,7 @@
 - 👀 I’m creating BoosterX
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on super cool project
-- 📫 How to reach me **discord.com/boosterx**
+- 📫 How to reach me **discord.gg/boosterx**
 
 <!---
 ios1ph/ios1ph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
